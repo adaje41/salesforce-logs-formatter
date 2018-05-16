@@ -1,5 +1,5 @@
 {
-    "name": "salesforcelogsformatter",
+    "name": "salesforce-logs-formatter",
     "displayName": "SalesforceLogsFormatter",
     "description": "Formats Salesforce Debug Logs",
     "version": "0.0.1",
